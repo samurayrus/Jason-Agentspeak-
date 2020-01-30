@@ -1,0 +1,25 @@
+/*
+    rabota1
+    ---------------------------
+
+    Jason Project File
+
+    This file defines the initial state of the MAS
+
+    Jason 
+    апреля 11, 2019 - 07:41:11
+*/
+
+MAS rabota1 {
+
+    infrastructure: Centralised
+
+    agents:
+        hero;
+
+        dnevnic;
+
+        monster;
+
+}
+
