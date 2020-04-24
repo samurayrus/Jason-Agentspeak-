@@ -3,4 +3,10 @@
  Запускать через jason2.4, который можно найти в интернете. Не требует установки.
 Настройки плагинов -> плагины -> на самом верху указать путь к \jars\jason-jedit-plugin.jar 
 _
-- В репозитории лежит 3 скриншота работы программы (Кому лень запускать)
+  Скриншоты:
+  
+   - ![Image alt](Jason-Agentspeak-/-BT9ewvAkb0.jpg)
+   
+   - ![Image alt](Jason-Agentspeak-/e31a3DQRcKk.jpg)
+   
+   - ![Image alt](Jason-Agentspeak-/poCBjx5YOuE.jpg)
