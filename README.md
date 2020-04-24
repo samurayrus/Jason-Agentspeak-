@@ -5,8 +5,8 @@
 _
   Скриншоты:
   
-   - ![Image alt](Jason-Agentspeak-/-BT9ewvAkb0.jpg)
+   - ![Image alt](-BT9ewvAkb0.jpg)
    
-   - ![Image alt](Jason-Agentspeak-/e31a3DQRcKk.jpg)
+   - ![Image alt](e31a3DQRcKk.jpg)
    
-   - ![Image alt](Jason-Agentspeak-/poCBjx5YOuE.jpg)
+   - ![Image alt](poCBjx5YOuE.jpg)
